@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adamhw27
 - 🌱 I’m currently studying computer engineering at U of U
 - 📫 How to reach me: adamwelsh.college@gmail.com
-- 😄 Pronouns: ... he/him
+- 😄 Pronouns:  he/him
 - ⚡ Fun fact: ...
 
 <!---
